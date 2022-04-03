@@ -1,0 +1,26 @@
+{
+  "name": "react-universal-logger",
+  "version": "0.1.0",
+  "description": "A React Logging Utility",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSaurav2/react-universal-logger.git"
+  },
+  "author": "Kumar Saurav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KSaurav2/react-universal-logger/issues"
+  },
+  "homepage": "https://github.com/KSaurav2/react-universal-logger#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "babel-loader": "^8.2.4",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
